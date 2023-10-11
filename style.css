@@ -35,14 +35,21 @@ header {
 	clear: both;
 	background-color: orange;
 	width: 100vw;
-	height: 10vh;
+	height: 20vh;
+	padding: 10px;
+}
+.logo
+{
+	background-color: pink;
+	width: 100px;
+	margin: 10px;
 }
 
 aside {
 	float: left;
 	background-color: yellow;
 	width: 25vw;
-	height: 80vh;
+	height: 70vh;
 }
 
 main {
@@ -50,7 +57,7 @@ main {
 	float: right;
 	background-color: lightblue;
 	width: 75vw;
-	height: 80vh;
+	height: 70vh;
 }
 
 footer {
