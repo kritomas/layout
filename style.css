@@ -1,0 +1,44 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	clear: both;
+	background-color: orange;
+	width: 100vw;
+	height: 10vh;
+}
+
+aside {
+	float: left;
+	background-color: yellow;
+	width: 25vw;
+	height: 80vh;
+}
+
+main {
+	clear: top;
+	float: right;
+	background-color: lightblue;
+	width: 75vw;
+	height: 80vh;
+}
+
+footer {
+	clear: both;
+	background-color: green;
+	width: 100vw;
+	height: 10vh;
+}
+
+p {
+	padding: 10px;
+	font-family: ubuntu;
+	font-size: 20px;
+}
